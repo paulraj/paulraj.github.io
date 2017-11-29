@@ -2,9 +2,9 @@
 title: Paul Raj
 description: 'Interested in ML and AI'
 url: 'https://paulraj.github.io'
-baseurl: '/jekyll-uno'
-# google_analytics: 'UA-XXXXXX-X'
-disqus_shortname: 'Paul Raj'
+baseurl: '/'
+google_analytics: 'UA-XXXXXX-X'
+disqus_shortname: 'paulraj-github-io'
 
 author:
   name: 'Paul Raj'
